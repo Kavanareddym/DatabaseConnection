@@ -34,12 +34,14 @@ Start Apache and MySQL
 Visit http://localhost/login.html
 
 📁 **File Overview**
+```
 ├── login.html       → Login form
 ├── login.php        → Login authentication
 ├── signup.html      → Sign-up form
 ├── signup.php       → Sign-up handler
 ├── dashboard.php    → Protected page after login
 ├── style.css        → Frontend styling
+```
 
 👨‍💻 Created By **Kavana Reddy M**
 ✏️ Documented by **Kavanareddym**
